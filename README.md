@@ -1,33 +1,38 @@
-# 🚀 C++ Programming Mastery
+<h1 align="center">🚀 C++ Programming Mastery</h1>
 
-Welcome to my **C++ programming repository**!  
-This is a comprehensive, structured collection of practice and implementation files focusing on:
+<p align="center">
+  A structured collection of C++ practice files covering <b>DSA</b>, <b>interview prep</b>, and <b>competitive coding</b> — from basics to advanced.
+</p>
 
-- ✅ Core **C++ fundamentals**
-- 📊 **Data Structures & Algorithms (DSA)**
-- 🎯 **Problem-solving** for platforms like **LeetCode, HackerRank, and Codeforces**
-- 💡 Preparation for **coding interviews** and **competitive programming**
-
----
-
-## 🧠 What You'll Find Here
-
-This repository is designed to help learners and aspiring software engineers **build a rock-solid C++ foundation**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C++-blue.svg" />
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green" />
+  <img src="https://img.shields.io/github/repo-size/your-username/your-repo" />
+</p>
 
 ---
 
-## 📁 Folder Structure
+## 🧠 What You'll Learn
+
+- ✅ Master the syntax & logic of **C++**
+- 📊 Understand & implement **Data Structures & Algorithms**
+- 🎯 Prepare for **technical interviews**
+- 🔁 Solve real-world problems through **CP**
+
+---
+
+## 📂 Folder Structure
 
 ```bash
 📦 C++/
-├── 📁 Basics/          # Syntax, I/O, variables, loops, conditionals
-├── 📁 Arrays/          # 1D & 2D arrays, STL vectors, basic problems
-├── 📁 Strings/         # Manipulation, palindrome, substrings, hashing
-├── 📁 Functions/       # Recursion, overloading, inline, templates
-├── 📁 OOPs/            # Classes, objects, inheritance, polymorphism
-├── 📁 Pointers/        # Pointer arithmetic, memory management
-├── 📁 Sorting/         # Bubble, Selection, Merge, Quick, STL sorts
-├── 📁 Searching/       # Linear, Binary, Binary Search on answer
-├── 📁 DSA/             # Stack, Queue, Linked List, Tree, Graphs
-├── 📁 CP_Practice/     # Competitive programming & contests
-└── 📁 Misc/            # Random practice codes & experiments
+├── 🧱 Basics/           → I/O, variables, loops, conditionals
+├── 📐 Arrays/           → 1D/2D arrays, STL vectors, sorting
+├── 🧵 Strings/          → Manipulation, palindrome, hashing
+├── 🔁 Functions/        → Recursion, templates, overloading
+├── 🧊 OOPs/             → Classes, inheritance, polymorphism
+├── 🎯 Pointers/         → Pointers, memory allocation
+├── 🧮 Sorting/          → Bubble, Merge, Quick, STL sorts
+├── 🔍 Searching/        → Linear, Binary, Ternary
+├── 🧠 DSA/              → Stack, Queue, Linked List, Trees, Graphs
+├── 🏁 CP_Practice/      → Practice problems, contests
+└── 🧪 Misc/             → Experiments, random snippets
